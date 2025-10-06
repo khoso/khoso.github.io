@@ -3,5 +3,27 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
+  },
+  "name": "khoso.github.io",
+  "version": "1.0.0",
+  "description": "Test Project1",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoso/khoso.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/khoso/khoso.github.io/issues"
+  },
+  "homepage": "https://github.com/khoso/khoso.github.io#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
   }
 }
